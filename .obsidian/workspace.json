@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Essential Documents Directory/Core Pictures/Pasted image 20240221154709.png"
+                "file": "Essential Documents Directory/assets/Pasted image 20240221154709.png"
               }
             }
           },
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md"
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md"
               }
             }
           }
@@ -171,6 +171,13 @@
   },
   "active": "1f48c04904f56bce",
   "lastOpenFiles": [
+    "Pasted.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
+    "PersonalNotes/Essential.md",
+    "Essential Documents Directory/assets/Pasted image 20240221154709.png",
+    "PersonalNotes",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/03. OSINT/03. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
+    "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty/03. Hard",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty/02. Medium",
@@ -183,7 +190,6 @@
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/04. Write-Ups/Difficulty/02. Medium/One at a time",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/04. Write-Ups/Difficulty/02. Medium/All in one",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/04. Write-Ups/Difficulty/03. Hard",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/readelf.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/msfvenom.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/ldd.md",
@@ -201,12 +207,6 @@
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Методы повышения привилегий.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Mastering Privilege Escalation. Exploiting Vulnerabilities for Elevated Access.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Format String Vulnerability/README.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Format String Vulnerability/OWASP - Format string attack.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Buffer Overflow/Переполнение буфера. Aнатомия эксплоита.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Buffer Overflow/python.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Buffer Overflow/README2.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Buffer Overflow/README.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Buffer Overflow/Buffer Owerflow.md",
     "Unimportant Data Folder/VUZ/Math/Матрицы/pic/lu4822236r5_tmp_e90dc30ea72e97c6.png",
     "Unimportant Data Folder/VUZ/Math/Матрицы/pic/lu4822236r5_tmp_aeb3f7a67d9612c2.png",
     "Unimportant Data Folder/VUZ/Math/Матрицы/pic/lu4822236r5_tmp_9677ab03c013fe9.png",
@@ -217,7 +217,6 @@
     "Unimportant Data Folder/VUZ/Math/Матрицы/pic/lu4822236r0_tmp_2098d723fed10382.png",
     "Unimportant Data Folder/VUZ/Math/Матрицы/pic/Untitled.canvas",
     "Unimportant Data Folder/VUZ/Math/Матрицы/pic/Pasted image 20231203162311.png",
-    "Unimportant Data Folder/VUZ/Math/Матрицы/pic/Pasted image 20231203162226.png",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/Untitled.canvas",
     "Personal Knowledge Base/20. CyberSec/21. CTF/Untitled.canvas",
     "Personal Knowledge Base/ Self Improvement/Untitled.canvas",
