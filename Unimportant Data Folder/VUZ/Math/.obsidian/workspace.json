@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "8e3c2abd2b08a8cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7504e0a5f27f399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350d5ab22dd8b865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Основы арифметики и числовые операции/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "413de4ba5baeeec1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86972d95bec1b29b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c62493c54bec07c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9d20d398261766",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4624799b277bd9c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29dc2a45808ac3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5837ee41aa7d5720",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f5628d91d82046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d832d96eecc2fd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. Основы арифметики и числовые операции/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd326605252915f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01. Основы арифметики и числовые операции/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e05ee9f5852dc62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca75e1bf4e8efd7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Основы арифметики и числовые операции/README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "350d5ab22dd8b865",
+  "lastOpenFiles": [
+    "Матрицы/README.md",
+    "Матрицы/1Matricy.pdf",
+    "Pasted image 20231203162311.png",
+    "Pasted image 20231203162226.png",
+    "Pasted image 20231203162204.png",
+    "Pasted image 20231203162142.png",
+    "Pasted image 20231203162121.png",
+    "Pasted image 20231203161805.png",
+    "Pasted image 20231203161635.png",
+    "Pasted image 20231203161519.png",
+    "Pasted image 20231203161409.png",
+    "Pasted image 20231125194252.png.md",
+    "Pasted image 20231125193851.png",
+    "2023-11-25.md",
+    "Untitled.canvas",
+    "01. Основы арифметики и числовые операции/README.md",
+    "5.md",
+    "Матрицы/README.md.txt",
+    "Матрицы",
+    "vuz/Матрицы.md",
+    "01. Основы арифметики и числовые операции/12. Действия с дробями.md",
+    "01. Основы арифметики и числовые операции/13. Смешанные числа.md",
+    "01. Основы арифметики и числовые операции/11. Дроби.md",
+    "01. Основы арифметики и числовые операции/10. НОД и НОК.md",
+    "01. Основы арифметики и числовые операции/09. Делители и кратные.md",
+    "01. Основы арифметики и числовые операции/08. Законы математики.md",
+    "01. Основы арифметики и числовые операции/07. Порядок действий.md",
+    "01. Основы арифметики и числовые операции/06. Деление.md",
+    "01. Основы арифметики и числовые операции/05. Умножение.md",
+    "01. Основы арифметики и числовые операции/04. Разряды.md",
+    "01. Основы арифметики и числовые операции/03. Замены в выражениях.md",
+    "01. Основы арифметики и числовые операции/02.  Выражения.md",
+    "01. Основы арифметики и числовые операции/01. Основные операции.md",
+    "vuz",
+    "pic"
+  ]
+}

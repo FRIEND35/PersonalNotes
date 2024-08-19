@@ -1,0 +1,12 @@
+ 
+sudo apt install zsh
+
+chsh -s $(which zsh)
+
+sudo apt install git wget
+
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+
+source .zshrc

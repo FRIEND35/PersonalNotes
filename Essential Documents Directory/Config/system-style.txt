@@ -1,0 +1,7 @@
+Global-Theme: Monochrome
+Application-Style: Breeze
+Plasma-Style:  Monochrome
+Colors: Monochrome
+Windows-Decorations: Breeze
+Icons: Breeze-Noir-White-Blue
+
