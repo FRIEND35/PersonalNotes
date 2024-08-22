@@ -896,6 +896,43 @@ Let's try `3991`
 
 It work! The flag is `JCTF{3nC0D1nG_15_FuN}`
 
+
+```c
+#include <stdio.h>
+
+char transform(char inp)
+{
+  char one = inp - 53;
+  if (one < 0)
+  {
+    one = inp - 43;
+  }
+
+  return one + 48;
+
+}
+
+int main() {
+  char eight = '8';
+  char four = '4';
+  char six = '6';
+
+  char pin[] = {'8', '4', '4', '6'};
+  char pin_decoded[] = {'=', '9', '9', '1'};
+  char inp = '9';
+
+  for (int i = 0; i < 4; i++)
+  {
+    pin_decoded[i] = transform(pin_decoded[i]);
+  }
+   
+  printf("need: %d %d %d %d\n", eight, four, four, six);
+  printf("got: %d %d %d %d", pin_decoded[0], pin_decoded[1], pin_decoded[2], pin_decoded[3]);
+
+  return 0;
+}
+```
+
 ## Some (final) note
 - This crackme is easy for anyone who used Linux with Binary Ninja (or other debugger like `gdb`).
 - Unprotected, yes.
@@ -911,5 +948,3 @@ It work! The flag is `JCTF{3nC0D1nG_15_FuN}`
 ## Bonus
 
 ![[img-bonus.png]]
-
-
