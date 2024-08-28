@@ -8,29 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b48562376ef3b696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/03. OSINT/03. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee333ae619a7c69f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Essential Documents Directory/assets/Pasted image 20240221154709.png"
-              }
-            }
-          },
-          {
-            "id": "1f48c04904f56bce",
+            "id": "d87707dc2f663c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,9 +18,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "878479605b96320a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94e961719e712fa7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Essential Documents Directory/assets/Pasted image 20221215111436.png"
+              }
+            }
+          },
+          {
+            "id": "363e39ed5a6463d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/XA. Подсказки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Personal Knowledge Base/SECTIONS/\"  rsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 573.5
   },
   "right": {
     "id": "961ff65d3eb2b108",
@@ -169,54 +180,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f48c04904f56bce",
+  "active": "d87707dc2f663c72",
   "lastOpenFiles": [
-    "Essential Documents Directory/assets/Pasted image 20240108165306.png",
-    "Essential Documents Directory/assets/Pasted image 20240108165143.png",
-    "Essential Documents Directory/assets/Pasted image 20240108165127.png",
-    "Essential Documents Directory/assets/Pasted image 20240106215549.png",
-    "Essential Documents Directory/assets/Pasted image 20231220234225.png",
-    "Essential Documents Directory/assets/Pasted image 20231217180301.png",
-    "Essential Documents Directory/assets/Pasted image 20231217180150.png",
-    "Essential Documents Directory/assets/Pasted image 20231217175805.png",
-    "Essential Documents Directory/assets/Pasted image 20231217175658.png",
-    "Essential Documents Directory/assets/Pasted image 20231217175526.png",
-    "Essential Documents Directory/assets/Pasted image 20231210235746.png",
-    "Pasted.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/06. Forensic/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Я есть root. Разбираемся в повышении привилегий ОS Linux.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-    "PersonalNotes/Essential.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Mastering Privilege Escalation. Exploiting Vulnerabilities for Elevated Access.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/05. Machines (Box)/01. Info/Getting Started (HackTheBox)/3. Pentesting Basics/11. Privilege Escalation.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/06. Постигаем Си глубже, используя ассемблер (main).md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/Untitled.md",
+    "Essential Documents Directory/assets/Pasted image 20221215111436.png",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/XA. Подсказки.md",
+    "Essential Documents Directory/assets/Pasted image 20221215111509.png",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/06. Постигаем Си глубже, используя ассемблер.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/ZE. Стек и куча.md",
+    "Pasted image 20240826205714.png",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Flag Box.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/03. UseMe/sqlmap/Sqlmap — инструмент для обнаружения и использования SQL-инъекций.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/03. UseMe/sqlmap/The Ultimate SQLmap Tutorial. Master SQL Injection and Vulnerability Assessment!.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/03. UseMe/sqlmap/Как использовать SQLMAP для проверки веб-сайта на наличие уязвимости SQL-инъекции.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/03. UseMe/sqlmap/Учебник SQLmap.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/03. UseMe/sqlmap/How to Use sqlmap for SQL Injection Attacks.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/JA. Переменные и константы.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/VA. Управление памятью.md",
+    "о.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/03. Write-Ups/Difficulty/01. Easy/easy keyg3nme.md",
+    "Essential Documents Directory/assets/acs.png",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/02. Файлы.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/01. Стек, подпрограммы, рекурсия.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/GA. Сегменты памяти и регистры.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/FA. Базовый синтаксис.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/23. Jobs/Требовании к работе.md",
+    "Essential Documents Directory/assets/image15.jpg",
+    "Essential Documents Directory/assets/img-bonus.png",
+    "Essential Documents Directory/assets/image16.png",
+    "Essential Documents Directory/assets/image14.png",
+    "Essential Documents Directory/assets/image13.png",
+    "Essential Documents Directory/assets/image12.png",
+    "i have no idea.xcf",
     "PersonalNotes",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/03. OSINT/03. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-    "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty/03. Hard",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty/02. Medium",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty/01. Easy",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/02. PossibleThreats/Взлом сотовых сетей - как и зачем Мобильные сети.pdf",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/02. PossibleThreats/README.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/02. PossibleThreats",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/04. Write-Ups/Difficulty/02. Medium/One at a time",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/04. Write-Ups/Difficulty/02. Medium/All in one",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/readelf.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/msfvenom.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/ldd.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/install_pwndbg.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/GDB.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/03. UseMe/checksec.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Buffer Overflow/patterns/README.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Shellshock/README.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Shell Code/Шелл-код для начинающих.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Shell Code/Учимся писать шелл-коды.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Shell Code/Создаем 44-байтовый Linux x86 bind shellcode.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Shell Code/Linux Shellcode 101_ из ада в оболочку.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Я есть root. Разбираемся в повышении привилегий ОS Linux.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Повышение привилегий в Linux. Скрипты.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Методы повышения привилегий.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Mastering Privilege Escalation. Exploiting Vulnerabilities for Elevated Access.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Format String Vulnerability/README.md",
     "Unimportant Data Folder/VUZ/Math/Матрицы/pic/Untitled.canvas",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/Untitled.canvas",
     "Personal Knowledge Base/20. CyberSec/21. CTF/Untitled.canvas",
