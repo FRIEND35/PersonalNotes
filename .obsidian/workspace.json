@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d87707dc2f663c72",
+            "id": "cd28971309a6f75a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/XA. Подсказки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "878479605b96320a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Постигаем Си глубже, используя ассемблер.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94e961719e712fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/06. Постигаем Си глубже, используя ассемблер (main).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1a182e94b784b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/03. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c7fbef11e80274e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee79cd95072c11f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/11. Basic/Linux Guide/TA. Самые полезные приёмы работы в командной строке Linux.md",
+                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#VulnManual",
+                "query": "\"Type casting (приведение типов) - это процесс изменения типа данных одной переменной в другой тип данных. В языке программирования C приведение типов часто используется для изменения типа переменной или выражения для выполнения определенных операций.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 435.5
   },
   "right": {
     "id": "961ff65d3eb2b108",
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
+                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
+                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md"
+                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md"
               }
             }
           }
@@ -195,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c7fbef11e80274e",
+  "active": "cd28971309a6f75a",
   "lastOpenFiles": [
-    "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
     "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/05. Machines (Box)/02. Write-Ups/01. Linux/Difficulty/1. Easy/Walkthroughs.md",
+    "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. C/Структура сокета Си.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/03. Python/Сapture output in Python.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/04. Code Exploration Folder/Exploration.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. C/void type.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. C/type casting in C.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. C/Pointer.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. C/Exploration.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/Сapture output in Python.md",
+    "Personal Knowledge Base/SECTIONS/10. Linux/11. Basic/Linux Guide/TA. Самые полезные приёмы работы в командной строке Linux.md",
+    "Personal Knowledge Base/SECTIONS/10. Linux/11. Basic/Linux Guide/PA. Работа с вводом выводом.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/Pointer.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/type casting in C.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Я есть root. Разбираемся в повышении привилегий ОS Linux.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Методы повышения привилегий.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Mastering Privilege Escalation. Exploiting Vulnerabilities for Elevated Access.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Повышение привилегий в Linux. Скрипты.md",
+    "Personal Knowledge Base/SECTIONS/10. Linux/11. Basic/Linux Guide/KB. Файлы устройств в Linux.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/Exploration.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/void type.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/06. Постигаем Си глубже, используя ассемблер (main).md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/Untitled.md",
+    "06. Постигаем Си глубже, используя ассемблер.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/ZE. Стек и куча.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/HA. Системные вызовы.md",
     "Essential Documents Directory/assets/Pasted image 20240915163511.png",
     "Essential Documents Directory/assets/Pasted image 20240915163501.png",
     "Essential Documents Directory/assets/Pasted image 20240915163403.png",
@@ -222,29 +184,6 @@
     "Essential Documents Directory/assets/Pasted image 20240914004430.png",
     "Essential Documents Directory/assets/Pasted image 20240914004347.png",
     "Essential Documents Directory/assets/Pasted image 20240914004329.png",
-    "Personal Knowledge Base/SECTIONS/00. Coding/04. Python/1. Reference Manual/JA. Операторы.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/HelpMe.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/06. Forensic/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/06. Forensic/04. Write-Ups/Difficulty/02. Medium/Walkthroughs.md",
-    "Personal Knowledge Base/SECTIONS/10. Linux/11. Basic/Linux Guide/AA. Основы.md",
-    "Personal Knowledge Base/SECTIONS/10. Linux/11. Basic/Linux Guide/TA. Самые полезные приёмы работы в командной строке Linux.md",
-    "Personal Knowledge Base/SECTIONS/00. Coding/04. Python/3. pylib/pty/README.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/03. Write-Ups/Difficulty/01. Easy/WindowsOfOpportunity.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/03. Write-Ups/Difficulty/01. Easy/authorize.md",
-    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/XA. Подсказки.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/03. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/03. Write-Ups/Difficulty/01. Easy/easy keyg3nme.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/03. Write-Ups/Difficulty/01. Easy/Catalina.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Flag Box.md",
-    "06. Постигаем Си глубже, используя ассемблер.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/06. Постигаем Си глубже, используя ассемблер (main).md",
-    "Personal Knowledge Base/README.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/05. Практика по основам.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/04. Первое знакомство.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/00. README.md.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/00. Основы исполнения программ и ассемблера.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/03. Основы обратной разработки.md",
     "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/Untitled.canvas",
     "i have no idea.xcf",
     "PersonalNotes",
