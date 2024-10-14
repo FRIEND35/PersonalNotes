@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/05. Machines (Box)/02. Write-Ups/01. Linux/Difficulty/1. Easy/Walkthroughs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/05. Machines (Box)/02. Write-Ups/01. Linux/Difficulty/1. Easy/Walkthroughs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/05. Machines (Box)/02. Write-Ups/01. Linux/Difficulty/1. Easy/Walkthroughs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md"
+                "file": "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/05. Machines (Box)/02. Write-Ups/01. Linux/Difficulty/1. Easy/Walkthroughs.md"
               }
             }
           }
@@ -146,13 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d089e96ed9ffc108",
+  "active": "cd28971309a6f75a",
   "lastOpenFiles": [
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/03. UseMe/sqlmap/Sqlmap — инструмент для обнаружения и использования SQL-инъекций.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/03. UseMe/sqlmap/How to Use sqlmap for SQL Injection Attacks.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/22. Reference guide/02. Средства защиты информации/IPS and IDS/Snort.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/03. Python/Задачки.md",
     "Personal Knowledge Base/SECTIONS/00. Coding/03. Python/Exploration.md",
-    "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
-    "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
-    "Personal Knowledge Base/SECTIONS/00. Coding/02. C/Структура сокета Си.md",
     "Personal Knowledge Base/SECTIONS/00. Coding/03. Python/Сapture output in Python.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/02. PossibleThreats/SQL Injection/basics/README.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/04. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/02. PossibleThreats/SQL Injection/basics/SQLi.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/01. Web/02. PossibleThreats/SQL Injection/basics/sql-injection.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/05. Machines (Box)/02. Write-Ups/01. Linux/Difficulty/1. Easy/Walkthroughs.md",
+    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/09. Hardware/03. Write-Ups/Difficulty/01. Easy/Walkthroughs.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/03. Python/1. Reference Manual/HA. Строки.md",
+    "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/Основные понятия Git.md",
+    "Personal Knowledge Base/SECTIONS/10. Linux/13. DevOps/Git/README.md",
+    "Personal Knowledge Base/SECTIONS/00. Coding/02. C/Структура сокета Си.md",
     "Personal Knowledge Base/SECTIONS/00. Coding/04. Code Exploration Folder/Exploration.md",
     "Personal Knowledge Base/SECTIONS/00. Coding/02. C/void type.md",
     "Personal Knowledge Base/SECTIONS/00. Coding/02. C/type casting in C.md",
@@ -163,17 +174,6 @@
     "Personal Knowledge Base/SECTIONS/10. Linux/11. Basic/Linux Guide/PA. Работа с вводом выводом.md",
     "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/Pointer.md",
     "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/type casting in C.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Я есть root. Разбираемся в повышении привилегий ОS Linux.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Методы повышения привилегий.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Mastering Privilege Escalation. Exploiting Vulnerabilities for Elevated Access.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/08. PWN/02. PossibleThreats/Privilege Escalation/Повышение привилегий в Linux. Скрипты.md",
-    "Personal Knowledge Base/SECTIONS/10. Linux/11. Basic/Linux Guide/KB. Файлы устройств в Linux.md",
-    "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/Exploration.md",
-    "Personal Knowledge Base/SECTIONS/00. Coding/05. Code Exploration Folder/void type.md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/06. Постигаем Си глубже, используя ассемблер (main).md",
-    "Personal Knowledge Base/SECTIONS/20. CyberSec/21. CTF/07. Reverse Engineering/01. Info/Untitled.md",
-    "06. Постигаем Си глубже, используя ассемблер.md",
-    "Personal Knowledge Base/SECTIONS/00. Coding/02. Assembly/0x00 Assembly Guide/ZE. Стек и куча.md",
     "Essential Documents Directory/assets/Pasted image 20240915163511.png",
     "Essential Documents Directory/assets/Pasted image 20240915163501.png",
     "Essential Documents Directory/assets/Pasted image 20240915163403.png",
